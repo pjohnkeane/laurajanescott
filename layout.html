@@ -27,6 +27,7 @@
           <a href="/" title="{{ store.name | escape }}" class="logo {% if theme.logo != blank %} image {% else %} text {% endif %}" >
             {% if theme.logo %}
               <img src="{{ theme.logo.url }}" alt="{{ store.name }}" {% if theme.logo.width > 150 %}width="150"{% endif %} />
+              {{ store.name | escape }}
             {% else %}
               {{ store.name | escape }}
             {% endif %}

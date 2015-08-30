@@ -1,0 +1,21 @@
+{
+  "sidebar_border_color": "#2B2B2B",
+  "highlight_color": "#FFFFFF",
+  "link_color": "#76BFAF",
+  "header_font": "Helvetica",
+  "product_list_layout": "fitRows",
+  "link_rollover": "#A6F0E0",
+  "show_inventory_bars": false,
+  "product_list_size": "large",
+  "sidebar_color": "transparent",
+  "show_overlay": "Under image",
+  "border_color": "#2B2B2B",
+  "sidebar_link_color": "#808080",
+  "fixed_sidebar": true,
+  "header_color": "#FFFFFF",
+  "show_search": false,
+  "sidebar_link_rollover": "#A6F0E0",
+  "font": "Helvetica",
+  "font_color": "#808080",
+  "background_color": "#ffffff"
+}

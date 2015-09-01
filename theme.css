@@ -2087,3 +2087,7 @@ Author: Big Cartel
   Custom Styles - add and override styles below.
 ============================================================*/
 
+p.intro_caption {
+  font-size: 1rem;
+}
+

@@ -3,7 +3,7 @@
 
     <form method="post" id="cart_form" action="/cart" accept-charset="utf8">
       <input type="hidden" name="utf8" value='✓'>
-      <h1>Cart</h1>
+      <h1>Basket</h1>
 
       {% if errors != blank %}
         <ul class="errors">
@@ -159,7 +159,7 @@
 
   {% endunless %}
   <div class="cart_empty" {% if cart.items != blank %} style="display:none"{% endif %}>
-    <h1>Your cart is empty</h1>
+    <h1>Your Basket is empty</h1>
     <p>Sounds like a good time to <a href="/">start shopping</a>.</p>
   </div>
 

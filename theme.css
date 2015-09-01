@@ -1152,7 +1152,7 @@ aside footer cite a {
 
 /* @end */
 .page.home {
-  margin-right: 16px;
+  margin-right: 30px;
   padding-top: 60px;
 }
 @media screen and (max-width: 765px) {
@@ -1163,7 +1163,7 @@ aside footer cite a {
 }
 
 .page.products {
-  margin-right: 16px;
+  margin-right: 30px;
 }
 @media screen and (max-width: 765px) {
   .page.products {

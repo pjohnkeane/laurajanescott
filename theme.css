@@ -818,10 +818,11 @@ aside header {
 }
 aside header .logo {
   display: block;
-  font-size: 2.4em;
+  font-size: 1.8em;
   font-weight: 700;
   line-height: 1.2em;
   word-wrap: break-word;
+  text-align: center;
 }
 @media screen and (max-width: 765px) {
   aside header .logo {

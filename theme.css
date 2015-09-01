@@ -1837,20 +1837,26 @@ aside footer cite a {
   position: relative;
   top: 3px;
 }
-.page.cart form > ul .submit {
+.page.cart form > ul .submit, .page.cart form > ul .continue_shopping {
   padding-left: 66%;
 }
 @media screen and (max-width: 765px) {
-  .page.cart form > ul .submit {
+  .page.cart form > ul .submit, .page.cart form > ul .continue_shopping {
     border: none;
     padding: 0 16px 25px;
   }
 }
-.page.cart form > ul .submit button {
+.page.cart form > ul .submit button, .page.cart form > ul .continue_shopping button {
   margin: 10px 0 0 35px;
 }
+.page.cart form > ul .continue_shopping button {
+  color: black !important;
+  background-color: transparent;
+  padding: 0;
+  text-decoration: underline;
+}
 @media screen and (max-width: 765px) {
-  .page.cart form > ul .submit button {
+  .page.cart form > ul .submit button, .page.cart form > ul .continue_shopping button  {
     display: block;
     margin: 0 auto;
     width: 60%;

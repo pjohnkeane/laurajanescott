@@ -2097,3 +2097,6 @@ p.intro_caption {
   font-size: 1rem;
 }
 
+a.pin-badge {
+   display: inline-block;
+}

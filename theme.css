@@ -1512,7 +1512,7 @@ aside footer cite a {
   font-size: 12px;
   line-height: 18px;
 }
-.product_detail .description {
+.product_detail .description, .product_detail .pinterest {
   border-top-color: {{ theme.border_color }};
   border-top-style: solid;
   border-top-width: 1px;
@@ -1520,7 +1520,7 @@ aside footer cite a {
   padding-bottom: 15px;
   padding-top: 15px;
 }
-.product_detail .description img {
+.product_detail .description img, .product_detail .pinterest img {
   margin-bottom: 20px;
   max-width: 100%;
 }

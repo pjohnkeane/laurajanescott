@@ -2097,6 +2097,6 @@ p.intro_caption {
   font-size: 1rem;
 }
 
-a.pin-badge {
+a.pin-badge, a.fb-badge {
    display: inline-block;
 }

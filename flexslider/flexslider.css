@@ -76,9 +76,9 @@ html[xmlns] .flexslider .slides {
  * DEFAULT THEME
  * ====================================================================================================================*/
 .flexslider {
-  margin: 116px 0 60px; /* top margin of 116px to align top with 'first black line above basket' */
+  margin: 0 0 60px; 
   background: #ffffff;
-  border: 4px solid #ffffff;
+  border: 0px solid #ffffff;
   position: relative;
   zoom: 1;
   -webkit-border-radius: 4px;

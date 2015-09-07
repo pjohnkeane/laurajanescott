@@ -1343,7 +1343,7 @@ aside footer cite a {
 }
 
 .product_detail {
-  padding-top: 60px;
+  padding-top: 0;
 }
 @media screen and (max-width: 765px) {
   .product_detail {

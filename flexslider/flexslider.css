@@ -52,7 +52,7 @@
 }
 .flexslider .slides img {
   width: 100%;
-  max-width: 800px;
+  max-width: 600px;
   display: block;
 }
 .flexslider .slides:after {
@@ -196,7 +196,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-control-nav {
   width: 100%;
-  max-width: 800px;
+  max-width: 600px;
   position: absolute;
   bottom: -40px;
   text-align: center;
@@ -264,7 +264,7 @@ html[xmlns] .flexslider .slides {
 /* ====================================================================================================================
  * RESPONSIVE
  * ====================================================================================================================*/
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 765px) {
   .flex-direction-nav .flex-prev {
     opacity: 1;
     left: 10px;
